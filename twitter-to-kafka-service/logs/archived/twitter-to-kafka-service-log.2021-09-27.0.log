@@ -1,0 +1,61 @@
+2021-09-27 23:28:35 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - Starting TwitterToKafka using Java 11.0.12 on Gauravs-MacBook-Pro.local with PID 3851 (/Users/gauravsingh/study/assignments/udemeykafkamicroservices/microservice-demo/twitter-to-kafka-service/target/classes started by gauravsingh in /Users/gauravsingh/study/assignments/udemeykafkamicroservices/microservice-demo)
+2021-09-27 23:28:35 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - No active profile set, falling back to default profiles: default
+2021-09-27 23:28:35 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - Started TwitterToKafka in 6.677 seconds (JVM running for 7.686)
+2021-09-27 23:28:35 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-09-27 23:28:35 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:794)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:345)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.microservice.twitter.tokafka.TwitterToKafka.main(TwitterToKafka.java:19)
+Caused by: java.lang.NullPointerException: null
+	at com.microservice.twitter.tokafka.TwitterToKafka.run(TwitterToKafka.java:24)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:791)
+	... 5 common frames omitted
+2021-09-27 23:30:50 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - Starting TwitterToKafka using Java 11.0.12 on Gauravs-MacBook-Pro.local with PID 3876 (/Users/gauravsingh/study/assignments/udemeykafkamicroservices/microservice-demo/twitter-to-kafka-service/target/classes started by gauravsingh in /Users/gauravsingh/study/assignments/udemeykafkamicroservices/microservice-demo)
+2021-09-27 23:30:50 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - No active profile set, falling back to default profiles: default
+2021-09-27 23:30:51 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - Started TwitterToKafka in 6.553 seconds (JVM running for 7.946)
+2021-09-27 23:31:17 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-09-27 23:31:17 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:794)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:345)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.microservice.twitter.tokafka.TwitterToKafka.main(TwitterToKafka.java:19)
+Caused by: java.lang.NullPointerException: null
+	at com.microservice.twitter.tokafka.TwitterToKafka.run(TwitterToKafka.java:24)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:791)
+	... 5 common frames omitted
+2021-09-27 23:33:45 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - Starting TwitterToKafka using Java 11.0.12 on Gauravs-MacBook-Pro.local with PID 3917 (/Users/gauravsingh/study/assignments/udemeykafkamicroservices/microservice-demo/twitter-to-kafka-service/target/classes started by gauravsingh in /Users/gauravsingh/study/assignments/udemeykafkamicroservices/microservice-demo)
+2021-09-27 23:33:45 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - No active profile set, falling back to default profiles: default
+2021-09-27 23:33:46 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - Started TwitterToKafka in 6.59 seconds (JVM running for 7.484)
+2021-09-27 23:33:46 [main] INFO  o.s.b.a.l.ConditionEvaluationReportLoggingListener - 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-09-27 23:33:46 [main] ERROR o.s.boot.SpringApplication - Application run failed
+java.lang.IllegalStateException: Failed to execute CommandLineRunner
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:794)
+	at org.springframework.boot.SpringApplication.callRunners(SpringApplication.java:775)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:345)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1343)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1332)
+	at com.microservice.twitter.tokafka.TwitterToKafka.main(TwitterToKafka.java:18)
+Caused by: java.lang.NullPointerException: null
+	at com.microservice.twitter.tokafka.TwitterToKafka.run(TwitterToKafka.java:23)
+	at org.springframework.boot.SpringApplication.callRunner(SpringApplication.java:791)
+	... 5 common frames omitted
+2021-09-27 23:39:07 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - Starting TwitterToKafka using Java 11.0.12 on Gauravs-MacBook-Pro.local with PID 3955 (/Users/gauravsingh/study/assignments/udemeykafkamicroservices/microservice-demo/twitter-to-kafka-service/target/classes started by gauravsingh in /Users/gauravsingh/study/assignments/udemeykafkamicroservices/microservice-demo)
+2021-09-27 23:39:07 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - No active profile set, falling back to default profiles: default
+2021-09-27 23:39:19 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - Started TwitterToKafka in 18.389 seconds (JVM running for 19.439)
+2021-09-27 23:39:19 [main] ERROR c.m.twitter.tokafka.TwitterToKafka - Microservices
+2021-09-27 23:42:36 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - Starting TwitterToKafka using Java 11.0.12 on Gauravs-MacBook-Pro.local with PID 4007 (/Users/gauravsingh/study/assignments/udemeykafkamicroservices/microservice-demo/twitter-to-kafka-service/target/classes started by gauravsingh in /Users/gauravsingh/study/assignments/udemeykafkamicroservices/microservice-demo)
+2021-09-27 23:42:36 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - No active profile set, falling back to default profiles: default
+2021-09-27 23:42:44 [main] INFO  c.m.twitter.tokafka.TwitterToKafka - Started TwitterToKafka in 13.22 seconds (JVM running for 14.14)
